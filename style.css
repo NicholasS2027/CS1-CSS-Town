@@ -39,3 +39,86 @@ body {
     border-right: 50px solid transparent;
     border-bottom: 50px solid white;
 }
+
+#building-2 {
+    background: lightgray;
+    width: 120px;
+    height: 90px;
+    position: absolute;
+    top: 55%;
+    left: 400px;
+}
+
+#roof-2 {
+    position: relative;
+    bottom: 60px;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 60px solid white;
+}
+
+#building-3 {
+    background: darkgray;
+    width: 80px;
+    height: 50px;
+    position: absolute;
+    top: 55%;
+    left: 700px;
+}
+
+#roof-3 {
+    position: relative;
+    bottom: 40px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 40px solid white;
+}
+
+#building-4 {
+    background: gray;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 55%;
+    left: 0;
+}
+
+#roof-4 {
+    position: relative;
+    bottom: 50px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 50px solid white;
+}
+
+#building-5 {
+    background: gray;
+    width: 150px;
+    height: 120px;
+    position: relative;
+    top: 55%;
+    left: 538px;
+}
+
+#roof-5 {
+    position: relative;
+    bottom: 75px;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-bottom: 75px solid white;
+}
+
+#arched {
+    position: absolute;
+    width: 70px;
+    top: 390px;
+    left: 40px; 
+}
+
+#double-door {
+    position: relative;
+    width: 40px;
+    top: 310px;
+    left: 0px;
+}
+
