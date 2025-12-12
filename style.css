@@ -116,9 +116,22 @@ body {
 }
 
 #double-door {
-    position: relative;
+    position: absolute;
     width: 40px;
-    top: 310px;
+    top: 430px;
     left: 0px;
 }
 
+#double-door1 {
+    position: absolute;
+    width: 40px;
+    top: 450px;
+    left: 540px;
+}
+
+#arched1 {
+    position: absolute;
+    width: 70px;
+
+
+}
