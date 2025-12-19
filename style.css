@@ -108,30 +108,63 @@ body {
     border-bottom: 75px solid white;
 }
 
+
+#double-door {
+    position: relative;
+    width: 40px;
+    top: 315px;
+    right: 70px;
+}
+
+
 #arched {
-    position: absolute;
+    position: relative;
     width: 70px;
-    top: 390px;
-    left: 40px; 
+    top: 265px;
+    left: 30px;
 }
 
 #double-door {
-    position: absolute;
+    position: relative;
     width: 40px;
-    top: 430px;
+    top: 315px;
+    right: 50px;
+}
+
+
+#arched {
+    position: relative;
+    width: 70px;
+    top: 265px;
+    left: 70px;
+}
+
+#double-door {
+    position: relative;
+    width: 40px;
+    top: 315px;
+    right: 20px;
+}
+
+
+#arched {
+    position: relative;
+    width: 70px;
+    top: 265px;
     left: 0px;
 }
 
-#double-door1 {
-    position: absolute;
+#double-door {
+    position: relative;
     width: 40px;
-    top: 450px;
-    left: 540px;
+    top: 315px;
+    right: 70px;
 }
 
-#arched1 {
-    position: absolute;
+
+#arched {
+    position: relative;
     width: 70px;
-
-
+    top: 265px;
+    left: 30px;
 }
